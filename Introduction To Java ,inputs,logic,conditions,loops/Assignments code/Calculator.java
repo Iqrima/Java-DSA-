@@ -7,7 +7,7 @@ public class Calculator {
         int a = sc.nextInt();
         System.out.println("Enter second number: ");
         int b = sc.nextInt();
-        System.out.println("Enter operation: ");
+        System.out.println("Enter operator: ");
         char op = sc.next().charAt(0);
         if (op == '+') {
             System.out.println(a + b );
