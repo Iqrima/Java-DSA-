@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 public class countoccurence {
     public static void main(String[] args) {
@@ -14,6 +15,6 @@ public class countoccurence {
 
 
         }
-        System.out.println(count);
+        System.out.print(count);
     }
 }
