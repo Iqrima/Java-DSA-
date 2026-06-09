@@ -1,6 +1,10 @@
+/*if sout(b) is added in while loop bracket output comes of entire series
+                                           like n=6 and output comes 0 1 2 3 5 8 means 8 is fibo num of 6
 
-/*kk code version*/
-import java.util.Scanner;
+                                            but if outside while loop bracket only the output 8 comes*/
+
+
+/*import java.util.Scanner;
 public class Fibo {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -16,22 +20,15 @@ public class Fibo {
             a = temp;
             count++;
         }
-        System.out.println(b);                             /* if sout(b) is added in while loop bracket output comes of entire series
-                                           like n=6 and output comes 0 1 2 3 5 8 means 8 is fibo num of 6
-
-                                            but if outside while loop bracket only the output 8 comes */
-
-
-
-
+        System.out.println(b);
 
     }
-}
+}*/
 
 
 
-/*
-using for loop
+
+/*using for loop
 
 import java.util.Scanner;
 public class Fibo {
@@ -52,5 +49,6 @@ public class Fibo {
         System.out.println(a);
     }
 
-}
-*/
+}*/
+
+
