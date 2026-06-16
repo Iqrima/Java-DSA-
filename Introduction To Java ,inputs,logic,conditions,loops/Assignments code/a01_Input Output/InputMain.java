@@ -1,4 +1,4 @@
-/*
+
 import java.util.Scanner;
 public class InputMain{
     public static void main(String[] args)
@@ -12,4 +12,4 @@ public class InputMain{
     }
 }
 
-*/
+
