@@ -1,4 +1,4 @@
-/*
+
 import java.util.Scanner;
 public class p1to10 {
     public static void main(String[] args) {
@@ -18,4 +18,4 @@ public class p1to10 {
     }
 
 }
-*/
+
