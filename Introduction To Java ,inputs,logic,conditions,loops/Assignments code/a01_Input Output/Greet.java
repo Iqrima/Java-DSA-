@@ -1,4 +1,4 @@
-/*
+
 
 import java.util.Scanner;
 public class Greet {
@@ -11,4 +11,4 @@ public class Greet {
 
 }
 
-*/
+
