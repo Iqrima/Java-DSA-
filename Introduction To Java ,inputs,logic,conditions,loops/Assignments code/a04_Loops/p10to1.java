@@ -1,4 +1,4 @@
-/*
+
 
 import java.util.Scanner;
 public class p10to1 {
@@ -19,4 +19,4 @@ public class p10to1 {
     }
 
 }
-*/
+
