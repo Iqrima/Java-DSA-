@@ -1,4 +1,4 @@
-/*
+
 import java.util.Scanner;
 public class Multiplicationt {
 
@@ -12,4 +12,4 @@ public class Multiplicationt {
         }
     }
 }
-*/
+
