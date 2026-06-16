@@ -1,4 +1,4 @@
-/*
+
 import java.util.Scanner;
 public class Fruit {
     static void main(String[] args) {
@@ -20,4 +20,3 @@ public class Fruit {
         }
     }
 }
-*/
