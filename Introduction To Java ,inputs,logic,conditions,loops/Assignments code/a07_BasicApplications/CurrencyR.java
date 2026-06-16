@@ -1,4 +1,4 @@
-/*
+
 import java.util.Scanner;
 public class CurrencyR {
     static void main(String[] args) {
@@ -15,4 +15,4 @@ public class CurrencyR {
 
 
 }
-*/
+
