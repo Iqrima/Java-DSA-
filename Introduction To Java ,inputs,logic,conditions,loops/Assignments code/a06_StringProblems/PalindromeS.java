@@ -1,4 +1,4 @@
-/*
+
 import java.util.Scanner;
 public class PalindromeS {
     public static void main(String[] args) {
@@ -25,4 +25,4 @@ public class PalindromeS {
 
     }
 
-}*/
+}
