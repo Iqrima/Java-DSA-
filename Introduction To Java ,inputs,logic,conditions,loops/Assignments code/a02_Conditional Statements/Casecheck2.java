@@ -1,4 +1,4 @@
-/*
+
 // this case check program will be for capital letters, small letters
 // ,numbers also for any symbols @##$%!?><  they will print as symbols //
 
@@ -30,4 +30,4 @@ public class Casecheck2 {
 
 
 
-*/
+
