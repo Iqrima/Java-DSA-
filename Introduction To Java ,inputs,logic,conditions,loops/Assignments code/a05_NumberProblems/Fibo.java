@@ -4,7 +4,7 @@
                                             but if outside while loop bracket only the output 8 comes*/
 
 
-/*import java.util.Scanner;
+import java.util.Scanner;
 public class Fibo {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -23,7 +23,7 @@ public class Fibo {
         System.out.println(b);
 
     }
-}*/
+}
 
 
 
