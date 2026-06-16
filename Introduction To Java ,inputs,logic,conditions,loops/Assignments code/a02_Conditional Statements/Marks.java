@@ -1,4 +1,4 @@
-/*
+
 
 import java.util.Scanner;
 public class Marks {
@@ -17,4 +17,4 @@ public class Marks {
 
 
 
-*/
+
