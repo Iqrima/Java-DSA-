@@ -1,3 +1,5 @@
+package a04_Loops;
+
 import java.util.Scanner;
 public class P1ton {
 

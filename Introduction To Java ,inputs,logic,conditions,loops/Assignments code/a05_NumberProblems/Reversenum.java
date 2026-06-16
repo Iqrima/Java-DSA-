@@ -1,3 +1,4 @@
+/*
 import java.util.Scanner;
 public class Reversenum {
     public static void main(String[] args) {
@@ -13,3 +14,4 @@ public class Reversenum {
     }
 }
 
+*/
