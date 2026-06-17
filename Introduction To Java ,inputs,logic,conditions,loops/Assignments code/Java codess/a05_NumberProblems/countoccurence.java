@@ -2,7 +2,7 @@ package a05_NumberProblems;
 
 
 import java.util.Scanner;
-public class count_occurence {
+public class countoccurence {
     public static void main(String[] args) {
        Scanner sc = new Scanner(System.in);
        int n = 45535;
