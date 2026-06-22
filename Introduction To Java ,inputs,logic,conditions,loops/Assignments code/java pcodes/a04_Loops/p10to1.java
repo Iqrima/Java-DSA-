@@ -16,6 +16,7 @@ public class p10to1 {
         System.out.println("1");
 
 
+
     }
 
 }
