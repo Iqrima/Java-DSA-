@@ -12,3 +12,4 @@ public class VariableArguments {
 }
 //Varaibles store the values
 //arguments valuepasss into a methods
+/
